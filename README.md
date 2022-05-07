@@ -1,2 +1,2 @@
-# tinygo-adruino-lab
+# tinygo-arduino-lab
 Arduino Tingo lab
